@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="full_name" label="Full Name" language="en" table="x_snc_afl_ground">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>full_name</element>
+            <help/>
+            <hint/>
+            <label>Full Name</label>
+            <language>en</language>
+            <name>x_snc_afl_ground</name>
+            <plural>Full Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>david.burgess</sys_created_by>
+            <sys_created_on>2018-05-24 06:43:08</sys_created_on>
+            <sys_id>ded0c209db5a97001b2fd0364a96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Full Name</sys_name>
+            <sys_package display_value="afl" source="x_snc_afl">b77d3945db5a97001b2fd0364a961955</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="afl">b77d3945db5a97001b2fd0364a961955</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_afl_ground_full_name_en</sys_update_name>
+            <sys_updated_by>david.burgess</sys_updated_by>
+            <sys_updated_on>2018-05-24 06:43:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

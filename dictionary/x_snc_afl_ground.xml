@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Ground" max_length="40" name="x_snc_afl_ground" type="collection">
+        <element label="Address" max_length="400" name="address" type="string"/>
+        <element label="Capacity" max_length="40" name="capacity" type="integer"/>
+        <element label="Full Name" max_length="200" name="full_name" type="string"/>
+        <element display="true" label="Name" max_length="100" name="name" type="string"/>
+    </element>
+</database>
